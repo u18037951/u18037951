@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @u18037951 Lerato Moselane
 - 👀 I’m interested in games development
-- 🌱 I’m currently learning COS 301 Software Engineering
+- 🌱 I’m currently doing honours degree focussing on software engineering.
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 You can reach me on u18037851@tuks.co.za
 
